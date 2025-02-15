@@ -1,16 +1,17 @@
-<p align="center">
-  <img src="programmer.gif" width="100%" />
-</p>
+<p align="center"> <img src="programmer.gif" width="100%" /> </p>
 
 Hi!
 
-It's nice you took time to land on my github profile.
+It's great that you landed on my GitHub profile. 🚀
 
-As you can see above i am still working on improving gh profile a bit!
+As you can see, I'm still working on improving this space a bit!
 
+If you want to chat about anything, don't hesitate to DM me on Telegram [here](https://t.me/ayushh0406).
 
+Stay tuned for updates and feel free to fork the repositories to contribute!
 
-Bye 👋
+Bye for now! 👋
+
   
 <!-- Github Stats + Top Langs -->
   
